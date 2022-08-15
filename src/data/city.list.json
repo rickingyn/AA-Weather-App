@@ -1,0 +1,32 @@
+[
+    {
+        "id": 6167865,
+        "name": "Toronto",
+        "state": "",
+        "country": "CA",
+        "coord": {
+            "lon": -79.416298,
+            "lat": 43.700111
+        }
+    },
+    {
+        "id": 1835847,
+        "name": "Seoul",
+        "state": "",
+        "country": "KR",
+        "coord": {
+            "lon": 127.0,
+            "lat": 37.583328
+        }
+    },
+    {
+        "id": 3164603,
+        "name": "Venice",
+        "state": "",
+        "country": "IT",
+        "coord": {
+            "lon": 12.32667,
+            "lat": 45.43861
+        }
+    }
+]

@@ -1,0 +1,40 @@
+.weather {
+    padding: 1.5rem 0;
+    width: 100%;
+    border-inline: 2px solid #fff;
+    border-top: 4px solid #fff;
+    border-bottom: none;
+    font-size: 1.2rem;
+
+    &:first-child {
+        border-left: none;
+    }
+
+    &:last-child {
+        border-right: none;
+    }
+
+    .day {
+        margin-bottom: 1rem;
+    }
+
+    .temperature {
+        margin-top: 0.5rem;
+        font-size: 1.5rem;
+        font-weight: 500;
+    }
+
+    &.today {
+        padding: 3rem 0;
+        border-top: none;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        font-size: 1.7rem !important;
+        margin: 0;
+
+        .temperature {
+            text-align: left;
+            font-size: 3.5rem;
+        }
+    }
+  }
